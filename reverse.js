@@ -12,7 +12,7 @@ revString('hello');
     for(let character of str){
         reversed=character + reversed
     }
-    console .log(
+    console.log(
         reversed
     )
 })('saladguy');
