@@ -18,3 +18,9 @@ array.filter((var) => var >= 20) - selects only variables that follow parameter 
 
 ## .map()
 array.map((var) => var * 20) - changes all variables in array e.g multiples numbers by 20
+
+## .splice()
+array.splice(2,1) / removes one item at index 2
+
+## .shift()
+array.shift() removes first item in array / unshift adds to start
