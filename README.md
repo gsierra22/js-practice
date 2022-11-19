@@ -31,3 +31,7 @@ array1.concat(array2) combines two arrays
 ## Merging objects
 const obj1 ={ var1: x, var2: y} const obj2 ={ var3: z, var4: q} obj3 = {...obj1, 
 ...obj2}
+
+## .replace()
+str.replace('str1', 'str2') replace string 1 with string 2
+str.replace(/str1/i, 'str2') replace string 1 with string 2
