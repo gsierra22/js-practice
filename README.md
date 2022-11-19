@@ -24,3 +24,10 @@ array.splice(2,1) / removes one item at index 2
 
 ## .shift()
 array.shift() removes first item in array / unshift adds to start
+
+## .concat()
+array1.concat(array2) combines two arrays
+
+## Merging objects
+const obj1 ={ var1: x, var2: y} const obj2 ={ var3: z, var4: q} obj3 = {...obj1, 
+...obj2}
